@@ -1,0 +1,6 @@
+robot
+time
+date
+weather
+power
+cost
