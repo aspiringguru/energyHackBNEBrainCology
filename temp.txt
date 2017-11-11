@@ -1,0 +1,28 @@
+{"eReal":[820469,836342,832130],
+	 "eRealNegative":[0,0,0],
+	 "eRealPositive":[820469,836342,832130],
+	 "eReactive":[-3997,5961,2443],
+	 "eReactiveNegative":[4075,77,561],
+	 "eReactivePositive":[78,6038,3004],
+	 "vRMSMin":[239.2,243.6,242.7],
+	 "vRMSMax":[241.3,245.1,245.1],
+	 "iRMSMin":[11.323,11.335,11.308],
+	 "iRMSMax":[11.48,11.505,11.467],
+	 "timestamp":1510275000,
+	 "duration":300}
+
+
+
+
+{"eReal":[678426,693664,693630],
+	 "eRealNegative":[0,0,0],
+	 "eRealPositive":[678426,693664,693630],
+	 "eReactive":[-8155,5090,3143],
+	 "eReactiveNegative":[8155,121,282],
+	 "eReactivePositive":[0,5211,3426],
+	 "vRMSMin":[236.7,240.9,242],
+	 "vRMSMax":[238.6,242.9,244.9],
+	 "iRMSMin":[3.675,3.684,3.681],
+	 "iRMSMax":[12.153,12.183,12.125],
+	 "timestamp":1510360500,
+	 "duration":300}
